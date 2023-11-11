@@ -1,0 +1,16 @@
+<div class="principal">
+      <section class="welcome">
+      <h2>Israel</h2>
+      <p>Israel,oficialmente Estado de Israel, es un país de Oriente Próximo que se encuentra en la ribera sudoriental del mar Mediterráneo. Limita al norte con el Líbano, al este con Siria, Jordania, Cisjordania, al oeste con el mar Mediterráneo y la Franja de Gaza, al suroeste con Egipto y al sur con el golfo de Aqaba, en el mar Rojo. Con una población de unos 8 millones de habitantes, la mayoría de los cuales son judíos, Israel es el único Estado judío del mundo. Es también el hogar de árabes musulmanes, cristianos, drusos y samaritanos, así como otros grupos religiosos y étnicos minoritarios. La capital, sede del gobierno y mayor ciudad del país es Jerusalén, el principal centro económico y financiero se encuentra en Tel Aviv y el mayor centro industrial se localiza en Haifa.</p>
+      <img class="responsive-img imagenes" src="images/globo.jpg" alt="">
+    </section>
+    </div>
+
+    <div class="botonP">
+      <button class="card-panel teal lighten-2">Conocer Israel</button>
+    </div>
+  </main>
+
+
+  50 height
+  36 width
